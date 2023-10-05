@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AWSBUassistbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB0702ED2E924FC997F0C51068F7201D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E29B7EE833F24BFE9C9B4D9651C510F5 }}
